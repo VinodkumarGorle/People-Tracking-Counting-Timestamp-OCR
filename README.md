@@ -12,7 +12,7 @@
 
 ### run-program:
 
-> python3 407-Person-Detection-ReID-Video-Time-OCR.py
+> python3 Person-Detection-ReID-Video-Time-OCR.py
 
 
 
