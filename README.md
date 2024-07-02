@@ -73,7 +73,7 @@
 
 
 
-### 407-Person-Detection-ReID-Video-Time-OCR.py
+### Person-Detection-ReID-Video-Time-OCR.py
 
 > run_person_tracking () :
 
