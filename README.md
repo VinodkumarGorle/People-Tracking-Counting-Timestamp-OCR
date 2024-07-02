@@ -1,4 +1,4 @@
-# ### 407-Person-Detection-ReID-Video-Time-OCR.py 
+# ### Person-Tracking-Counting-Video-TimeStamp-OCR
 > Install OpenVINO from the official website.
 
 > https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/download.html
