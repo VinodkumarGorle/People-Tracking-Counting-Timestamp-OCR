@@ -1,0 +1,16 @@
+os-sys
+opencv-python
+numpy
+paddlepaddle
+python-math
+python-time
+collection
+image
+Pillow
+pathlib
+xtarfile
+urllib3
+pycopy-copy
+display
+ipython
+stsci.ndimage
