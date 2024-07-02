@@ -16,7 +16,7 @@
 
 
 
-### The Lines and Centroids are in the function [ draw_boxes ] in 407-Person-Detection-ReID-Video-Time-OCR.py
+### The Lines and Centroids are in the function [ draw_boxes ] in Person-Detection-ReID-Video-Time-OCR.py
 
 ### Lines :
 
